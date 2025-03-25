@@ -1,7 +1,5 @@
 # 📰 Fake News Detection using Machine Learning & NLP  
 
-![Fake News Detection](https://your-image-link.com)  
-
 ## 📌 Overview  
 Fake news spreads rapidly online, impacting public opinion and decision-making. This project aims to **detect fake news articles using NLP (Natural Language Processing) and Machine Learning models**. It includes a **Streamlit web app** for real-time classification.  
 
